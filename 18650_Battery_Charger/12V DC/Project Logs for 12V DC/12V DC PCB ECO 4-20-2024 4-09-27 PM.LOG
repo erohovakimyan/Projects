@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VREG Pin=BT?-2
+Added Component: Designator=CN?(PJ-202A)
+Add component (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "PJ-202A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.690"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBATT Pin=BT?-2
+Added Pin To Net: NetName=VREG Pin=CN?-1
+Added Pin To Net: NetName=GND Pin=CN?-2
+Added Pin To Net: NetName=GND Pin=CN?-3
+Added Member To Class: ClassName=12V DC Member=Component BT? BK-18650-PC2
+Added Member To Class: ClassName=12V DC Member=Component CN? PJ-202A

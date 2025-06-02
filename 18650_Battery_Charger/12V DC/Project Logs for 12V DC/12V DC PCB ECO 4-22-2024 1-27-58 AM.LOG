@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=BT? NewDesignator=BT2
+Change Component Designator: OldDesignator=CN? NewDesignator=CN2
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT1_2
+Added Member To Class: ClassName=12V DC Member=Component BT2 BK-18650-PC2

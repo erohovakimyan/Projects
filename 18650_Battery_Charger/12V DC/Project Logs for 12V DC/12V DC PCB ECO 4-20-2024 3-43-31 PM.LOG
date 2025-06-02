@@ -1,0 +1,499 @@
+Added Component: Designator=C1(CAP_3216)
+Add component (AddParameter): Name = "Features"; Value = "Tantalum 3216-18 10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 2"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "B45196H2106K109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 2"; Value = "593D106X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.064"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_3216)
+Add component (AddParameter): Name = "Features"; Value = "Tantalum 3216-18 10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 2"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "B45196H2106K109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 2"; Value = "593D106X9010A2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.064"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Capacitor_0402)
+Add component (AddParameter): Name = "Features"; Value = "0402 100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 2"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "C0402C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 2"; Value = "GRM21BR71H104K01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0,010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_1206)
+Add component (AddParameter): Name = "Features"; Value = "Tantalum 1206 47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_1206)
+Add component (AddParameter): Name = "Features"; Value = "Tantalum 1206 47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Capacitor_0603)
+Add component (AddParameter): Name = "Features"; Value = "0603 4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "CL10A475KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Capacitor_0402)
+Add component (AddParameter): Name = "Features"; Value = "0402 1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "JMK105BJ105KV-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_1206)
+Add component (AddParameter): Name = "Features"; Value = "Tantalum 1206 47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47uf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Capacitor_0603)
+Add component (AddParameter): Name = "Features"; Value = "0603 4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "CL10A475KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(Capacitor_0603)
+Add component (AddParameter): Name = "Features"; Value = "0603 4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "CL10A475KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(Capacitor_0603)
+Add component (AddParameter): Name = "Features"; Value = "0603 4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "CL10A475KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(Capacitor_0402)
+Add component (AddParameter): Name = "Features"; Value = "0402 1NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "C0402C102K5REC7867"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50v"; VariantName = "[No Variations]"
+Added Component: Designator=C13(Capacitor_0402)
+Add component (AddParameter): Name = "Features"; Value = "0402 5.1PF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "GRM1555C1H5R1CA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.25pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "C0G/NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(Capacitor_0402)
+Add component (AddParameter): Name = "Features"; Value = "0402 560pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "GRM1555C1H561JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "560pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "C0G/NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "560pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(282834-2)
+Add component (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "282834-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$1.42"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0402)
+Add component (AddParameter): Name = "Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "RED 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "VLMS1500-GS08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.06W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0402)
+Add component (AddParameter): Name = "Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "RED 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "VLMS1500-GS08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.06W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_0402)
+Add component (AddParameter): Name = "Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "RED 0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "VLMS1500-GS08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.06W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.196"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DO-214AC)
+Add component (AddParameter): Name = "Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "DIODE SCHOTTKY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "CDBA240LL-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 100°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "40v"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DO-214AC)
+Add component (AddParameter): Name = "Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "DIODE SCHOTTKY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "CDBA240LL-HF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 100°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "40v"; VariantName = "[No Variations]"
+Added Component: Designator=L1(Inductor_4040)
+Add component (AddParameter): Name = "Current"; Value = "8.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "4040 8.5 A 19.3mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "IHLP4040DZER5R6M01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$1.40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 kHz"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "Current"; Value = "4.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "P-Channel 8-MSOP  SOT23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "DMP2045U-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.46"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "20 V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor_0402)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "ERT-J0EG103HA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "66 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±3%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor_0603)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "ERJ-3EKF2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor_0603)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "ERJ-3EKF2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor_0603)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "ERJ-3EKF2001V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor_0603)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KOA Speer Electronics, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "RK73H1JTTD1781F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.78K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor_0603)
+Add component (AddParameter): Name = "Features"; Value = "CHIP 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 2"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "MCS04020C4709FE000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 2"; Value = "RK73G1ETTP47R0F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor_0603)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "RC0603FR-07620KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "620K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor_0402)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "ERJ-2RKF1303X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "130K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Resistor_0603)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "RC0603FR-07205RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "205"; VariantName = "[No Variations]"
+Added Component: Designator=R10(Resistor_0402)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "RC0402FR-0797K6L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "97.6K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(Resistor_0603)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "RC0603FR-0720K5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(Resistor_0402)
+Add component (AddParameter): Name = "Features"; Value = "CHIP0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "ERJ-2RKF1183X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "118K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(14-TDFN)
+Add component (AddParameter): Name = "Features"; Value = "Charger IC Lithium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Skyworks Solutions Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "AAT3663IWO-8.4-2-T1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "13.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$0.00"; VariantName = "[No Variations]"
+Added Component: Designator=U2(8-MSOP)
+Add component (AddParameter): Name = "Features"; Value = "Source Selector Switch P-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "LTC4414EMS8#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "3V ~ 36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$6.02"; VariantName = "[No Variations]"
+Added Component: Designator=U3(10-DFN)
+Add component (AddParameter): Name = "Features"; Value = "Boost, SEPIC Switching Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Analog Devices Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "LT8362EDD#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$5.83"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U3-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U3-8
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R12-2
+Added Pin To Net: NetName=NetC13_2 Pin=U3-5
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=R12-1
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-12
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U1-11
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=U1-10
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R4-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=L1-2
+Added Pin To Net: NetName=NetD5_2 Pin=U3-10
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R6-1
+Added Pin To Net: NetName=NetQ1_2 Pin=U2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=U2-8
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-5
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-2
+Added Pin To Net: NetName=NetR7_1 Pin=U3-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R11-2
+Added Pin To Net: NetName=NetR8_1 Pin=U3-6
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U3-7
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=VBATT Pin=C1-2
+Added Pin To Net: NetName=VBATT Pin=C5-2
+Added Pin To Net: NetName=VBATT Pin=C6-2
+Added Pin To Net: NetName=VBATT Pin=L1-1
+Added Pin To Net: NetName=VBATT Pin=R7-2
+Added Pin To Net: NetName=VBATT Pin=U1-6
+Added Pin To Net: NetName=VBATT Pin=U1-7
+Added Pin To Net: NetName=VBATT Pin=U3-2
+Added Net: Name=VBATT
+Added Pin To Net: NetName=VEXT Pin=C2-2
+Added Pin To Net: NetName=VEXT Pin=D4-2
+Added Pin To Net: NetName=VEXT Pin=R2-1
+Added Pin To Net: NetName=VEXT Pin=R3-1
+Added Pin To Net: NetName=VEXT Pin=R4-1
+Added Pin To Net: NetName=VEXT Pin=U1-1
+Added Pin To Net: NetName=VEXT Pin=U1-8
+Added Pin To Net: NetName=VEXT Pin=U1-9
+Added Pin To Net: NetName=VEXT Pin=U2-6
+Added Net: Name=VEXT
+Added Pin To Net: NetName=VLOAD Pin=C4-2
+Added Pin To Net: NetName=VLOAD Pin=CN1-1
+Added Pin To Net: NetName=VLOAD Pin=D4-1
+Added Pin To Net: NetName=VLOAD Pin=Q1-3
+Added Net: Name=VLOAD
+Added Pin To Net: NetName=VREG Pin=C8-2
+Added Pin To Net: NetName=VREG Pin=C9-2
+Added Pin To Net: NetName=VREG Pin=C10-1
+Added Pin To Net: NetName=VREG Pin=C11-2
+Added Pin To Net: NetName=VREG Pin=D5-1
+Added Pin To Net: NetName=VREG Pin=Q1-1
+Added Pin To Net: NetName=VREG Pin=R6-2
+Added Pin To Net: NetName=VREG Pin=R8-2
+Added Pin To Net: NetName=VREG Pin=U2-7
+Added Net: Name=VREG
+Added Class: Name=12V DC

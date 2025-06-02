@@ -1,0 +1,19 @@
+Added Component: Designator=BT?(18650)
+Add component (AddParameter): Name = "ID"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "BK-18650-PC2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$3.75"; VariantName = "[No Variations]"
+Added Component: Designator=BT?(18650)
+Add component (AddParameter): Name = "ID"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name P/N 1"; Value = "BK-18650-PC2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "$3.75"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=VREG Pin=BT?-2
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-2
+Added Net: Name=NetBT?_1
+Added Member To Class: ClassName=12V DC Member=Component BT? BK-18650-PC2
+Added Member To Class: ClassName=12V DC Member=Component BT? BK-18650-PC2
