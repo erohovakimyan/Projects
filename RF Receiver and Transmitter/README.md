@@ -22,7 +22,7 @@ After several iterations (and debugging sessions), we achieved reliable transmis
 • 9V battery power for portability
 
 3. The Receiver: Digital Precision Meets Analog Signals
-The receiver side features:
+The receiver side features
 • RDA5807 chip for crystal-clear digital tuning
 • Arduino Nano for intelligent control
 • OLED display showing real-time frequency
