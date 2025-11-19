@@ -89,17 +89,13 @@ Loop forever:
 - Microchip SoftConsole
 - PolarFire SoC bare-metal driver examples
 
-### 2. Clone the Repository
-git clone https://github.com/yourusername/Wireless-Environmental-Monitoring-System.git
-cd Wireless-Environmental-Monitoring-System
-
-### 3. Import the Project into SoftConsole
+### 2. Import the Project into SoftConsole
 - Open SoftConsole
 - File → Import → Existing Projects
 - Select this repository
 - Build TX_Firmware and RX_Firmware
 
-### 4. Flash the Boards
+### 3. Flash the Boards
 - Flash TX firmware to the first board
 - Flash RX firmware to the second board
 
@@ -115,6 +111,3 @@ cd Wireless-Environmental-Monitoring-System
 - RTC for timestamping
 - Adaptive transmission intervals
 - Low-power optimization
-
-## License
-This project is licensed under the MIT License.
